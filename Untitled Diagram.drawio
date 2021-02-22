@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T09:03:52.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="vzGQaMT_r2YmnIHa2AYD" version="13.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-22T09:04:49.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="RcFr4LzUfP7vtb4I0W4f" version="13.7.1" type="github" pages="4">
   <diagram id="T8ZMuuTIdVA--agN4vgR" name="NGO">
     <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -301,6 +301,9 @@
         <mxCell id="gOC9lrR3oa_f37u2nidM-2" value="Destination" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nQcCvRnBeIST-arXIp4T-1">
           <mxGeometry x="-34.5" y="620" width="140" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="JwhsCG5c_-ftQlBHoa9X-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/customicondesignoffice5/128/start.png;rounded=1;fillColor=none;" vertex="1" parent="nQcCvRnBeIST-arXIp4T-1">
+          <mxGeometry x="-130" y="50" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -407,6 +410,9 @@
         </mxCell>
         <mxCell id="2dbcnQyiqk53vdXfsonG-31" value="Inbound from cloud to on-prime" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BhsQHVcMsBkPG2HqGZt5-1">
           <mxGeometry x="-660" y="22" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VwiWcnq12EUb-mBPXmO1-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/customicondesignoffice5/128/start.png;rounded=1;fillColor=none;" vertex="1" parent="BhsQHVcMsBkPG2HqGZt5-1">
+          <mxGeometry x="-320" y="81.25" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
